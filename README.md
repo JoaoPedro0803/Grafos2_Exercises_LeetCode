@@ -13,9 +13,17 @@
 Esse projeto tem por objetivo a resolução de questões encontradas no leet code, com o intuito de mostrar o nosso aprendizado no primeiro módulo de Grafos 2, da disciplina Projetos de Algoritmos, do professor Maurício Serrano.
 
 ## Screenshots
-### Exercício 1 (Médio) - [Nome do exercício](Link para o exercício no leet code)
-[**Código:**](Link do github para o código usado no exercício)<br>
-![Nome do exercício](Caminho relativo para o print do exercício resolvido e aceito no leetcode)
+### Exercício 1 (Médio) - [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)
+[**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_Exercises_LeetCode/blob/master/NetworkDelayTime/netWork.py)<br>
+![Network Delay Time](/assets/printFuncionando_Network.PNG)
+
+### Exercício 2 (Médio) - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
+[**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_Exercises_LeetCode/blob/master/CheapestFlights/cheapest.py)<br>
+![Cheapest Flights Within K Stops](/assets/approval_Cheapest.PNG)
+
+### Exercício 3 (Difícil) - [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/)
+[**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_Exercises_LeetCode/blob/master/SwimRisingWater/swim.py)<br>
+![Swim in Rising Water](/assets/Approval_Swim.PNG)
 
 ### Vídeo de Apresentação
 [Link para o Vídeo de Apresentação da Dupla 1]()
