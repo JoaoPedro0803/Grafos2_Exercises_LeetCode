@@ -33,6 +33,10 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 [**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_Exercises_LeetCode/blob/master/SmallestNumberOfNeighbors/smallestNumberOfNeighbors.py)<br>
 ![Smallest Number of Neighbors](/assets/SmallestNumberOfNeighbors_Resultado.png)
 
+### Exercício 6 (Difícil) - [Shortest Path With Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/)
+[**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_Exercises_LeetCode/blob/master/ShortestPathWithObstaclesElimination/shortestPathWithObstaclesElimination.py)<br>
+![Shortest Path With Obstacles Elimination](/assets/ShortestPathWithObstaclesElimination_Resultado.png)
+
 ### Vídeo de Apresentação
 [Link para o Vídeo de Apresentação da Dupla 1]()
 
