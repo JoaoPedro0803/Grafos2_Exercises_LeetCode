@@ -25,6 +25,10 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 [**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_Exercises_LeetCode/blob/master/SwimRisingWater/swim.py)<br>
 ![Swim in Rising Water](/assets/Approval_Swim.PNG)
 
+### Exercício 4 (Médio) - [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/)
+[**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_Exercises_LeetCode/blob/master/PathWithMinimumEffort/pathWithMinimumEffort.py)<br>
+![Path With Minimum Effort](/assets/PathWithMinimumEffort_Resultado.png)
+
 ### Vídeo de Apresentação
 [Link para o Vídeo de Apresentação da Dupla 1]()
 
