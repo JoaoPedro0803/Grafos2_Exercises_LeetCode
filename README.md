@@ -29,6 +29,10 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 [**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_Exercises_LeetCode/blob/master/PathWithMinimumEffort/pathWithMinimumEffort.py)<br>
 ![Path With Minimum Effort](/assets/PathWithMinimumEffort_Resultado.png)
 
+### Exercício 5 (Médio) - [Smallest Number of Neighbors](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)
+[**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_Exercises_LeetCode/blob/master/SmallestNumberOfNeighbors/smallestNumberOfNeighbors.py)<br>
+![Smallest Number of Neighbors](/assets/SmallestNumberOfNeighbors_Resultado.png)
+
 ### Vídeo de Apresentação
 [Link para o Vídeo de Apresentação da Dupla 1]()
 
