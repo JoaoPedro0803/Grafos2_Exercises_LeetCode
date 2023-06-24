@@ -38,7 +38,9 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 ![Shortest Path With Obstacles Elimination](/assets/ShortestPathWithObstaclesElimination_Resultado.png)
 
 ### Vídeo de Apresentação
-[Link para o Vídeo de Apresentação da Dupla 1](https://www.youtube.com/watch?v=B5vDEenFxVI)
+[Link para o Vídeo de Apresentação da Dupla 1 - YouTube](https://www.youtube.com/watch?v=B5vDEenFxVI)
+
+https://github.com/projeto-de-algoritmos/Grafos2_Exercises_LeetCode/assets/78980903/59d5e8b9-2bb2-431d-9295-c6d25922ae9b
 
 ## Instalação 
 **Linguagem**: Python<br>
